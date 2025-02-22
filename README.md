@@ -1,6 +1,6 @@
 # CSV lint Docker action test
 
-This tests the `krook/csv-lint` action
+This tests the [`krook/csv-lint`](https://github.com/krook/csv-lint) action.
 
 ## Inputs
 
