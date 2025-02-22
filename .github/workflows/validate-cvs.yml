@@ -1,16 +1,3 @@
-# CSV lint Docker action test
-
-This tests the `krook/csv-lint` action
-
-## Inputs
-
-## `CSV_FILE`
-
-**Required** The path of the file to validate.
-
-## Example usage
-
-```yaml
 on: [pull_request]
 
 jobs:
@@ -22,4 +9,3 @@ jobs:
         uses: krook/csv-lint@main
         env:
           CSV_FILE: "file.csv"
-```
