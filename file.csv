@@ -1,3 +1,5 @@
-﻿Column 1,Column 2,
-Data 1,Data 2
-Data 3,Data 4
+﻿,Project,Maintainer Name,Company,Github Name,OWNERS/MAINTAINERS
+Sandbox,PROJECT_NAME,MAINTAINER_1,COMPANY_1,GITHUB_1,https://github.com/cloudnative-pg/governance/blob/main/MAINTAINERS.md
+,,MAINTAINER_1,COMPANY_1,GITHUB_1,
+,,MAINTAINER_2,COMPANY_2,GITHUB_2,
+,,MAINTAINER_3,COMPANY_3,GITHUB_3,
