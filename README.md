@@ -11,7 +11,10 @@ This tests the [`krook/csv-lint`](https://github.com/krook/csv-lint) action.
 ## Example usage
 
 ```yaml
-on: [pull_request]
+on: 
+  pull_request:
+    paths:
+      - 'file.csv'
 
 jobs:
   verify-cvs-validation:
